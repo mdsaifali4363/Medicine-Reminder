@@ -135,4 +135,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ⭐ Support
 If you like this project, don’t forget to star ⭐ it on GitHub!
-Your support motivates further improvements 💖
+Your support motivates further improvements 💖.
